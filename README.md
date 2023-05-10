@@ -5,6 +5,7 @@ Our final project is a combination of the LCD + keypad lab and the first lab whi
 ## Components
 Software:
 - [Arduino IDE](https://www.arduino.cc/en/software)
+
 Hardware:
 - [ATMega328P](https://www.microchip.com/en-us/product/ATmega328P)
 - [LCD Display](https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/ref=asc_df_B019K5X53O/?tag=hyprod-20&linkCode=df0&hvadid=312760964359&hvpos=&hvnetw=g&hvrand=17107115202404698256&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030833&hvtargid=pla-563014027379&th=1)
